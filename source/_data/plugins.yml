@@ -877,6 +877,12 @@
     - html
     - js
     - css
+- name: hexo-abbrlink
+  description: "auto create one and only link for every post for hexo"
+  link: https://github.com/rozbo/hexo-abbrlink
+  tags:
+    - permalink
+    - 生成固定地址
 - name: hexo-generator-github
   description: "Github generator for Hexo"
   link: https://github.com/Jamling/hexo-generator-github
